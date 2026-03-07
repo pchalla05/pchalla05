@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Padma
 
-<!--
-**pchalla05/pchalla05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in **Theoretical Computer Science**, particularly **Graph Theory, Algorithms, and Discrete Mathematics**.
 
-Here are some ideas to get you started:
+## 🔍 Current Focus
+- Revisiting fundamental concepts in Graph Theory
+- Exploring structural graph theory ideas
+- Implementing graph theory concepts through small coding experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Areas of Interest
+- Graph Theory
+- Algorithm Design
+- Combinatorics
+- Structural Graph Theory
+- Parameterized Algorithms
+
+## 💻 Current Project
+📌 **Graph Theory Lab**
+
+A small collection of coding experiments where I implement and explore concepts from graph theory and discrete mathematics.
+
+## 🌱 Currently Learning
+- Graph minors
+- Treewidth
+- Directed graph theory
+
+## 📫 How to Reach Me
+- GitHub: https://github.com/pchalla05
+
+---
