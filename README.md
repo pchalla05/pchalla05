@@ -3,7 +3,6 @@
 I’m interested in **Theoretical Computer Science**, particularly **Graph Theory, Algorithms, and Discrete Mathematics**.
 
 ## 🔍 Current Focus
-- Revisiting fundamental concepts in Graph Theory
 - Exploring structural graph theory ideas
 - Implementing graph theory concepts through small coding experiments
 
@@ -11,8 +10,7 @@ I’m interested in **Theoretical Computer Science**, particularly **Graph Theor
 - Graph Theory
 - Algorithm Design
 - Combinatorics
-- Structural Graph Theory
-- Parameterized Algorithms
+
 
 ## 💻 Current Project
 📌 **Graph Theory Lab**
